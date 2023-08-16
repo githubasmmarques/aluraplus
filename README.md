@@ -1,7 +1,7 @@
 # aluraplus
 Aula do Alura
 
-# Sistema de Cadastro de Jogos
+# Sistema de Alura Plus
 <h2>Teste</h2> 
 
 > Status do Projeto: Em Desenvolvimento
